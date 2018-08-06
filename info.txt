@@ -1,3 +1,4 @@
 Name: Young Jun Do
 Sex: Male
 Age: 27
+Word: Hello
